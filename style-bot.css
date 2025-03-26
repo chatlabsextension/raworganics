@@ -145,3 +145,28 @@
 ._1ayyscc1 {
   background-color: transparent;
 }
+
+button.vfrc-button._1q15b0b0.c26d8x0._1q15b0b2.vfrc-launcher.f6dof81._1q15b0b0.c26d8x0._1q15b0b5:not(.f6dof82) {
+  width: 64px;
+  height: 64px;
+  box-shadow: 0px 4px 4px rgba(0,0,0,0.45);
+}
+
+.f6dof86.f6dof88 > img.f6dof8t.f6dof8v.f6dof8g {
+  width: 64px;
+  height: 64px;
+}
+
+.vfrc-proactive._6r9xee0._6r9xee1 
+  button.vfrc-button._1q15b0b0.c26d8x0._1q15b0b2._1q15b0b5._6r9xee5 {
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+}
+
+.vfrc-proactive._6r9xee0._6r9xee1 
+  button.vfrc-button._1q15b0b0.c26d8x0._1q15b0b2._1q15b0b5._6r9xee5 
+  .vfrc-icon._1t7e06e0._6r9xee6 svg {
+  width: 10px;  
+  height: 10px; 
+}
